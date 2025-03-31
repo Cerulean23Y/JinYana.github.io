@@ -1,1 +1,1 @@
-# JinYana.gihub.io
+# JinYana.github.io
